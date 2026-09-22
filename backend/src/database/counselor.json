@@ -1,0 +1,5043 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Vishnu",
+      "cutoff": 187.5,
+      "math": null,
+      "physics": null,
+      "chemistry": null,
+      "percentage": null,
+      "entrance_score": null,
+      "category": "BC",
+      "budget": 150000,
+      "location": "Coimbatore",
+      "interests": "[\"electronics\",\"iot\"]"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Computer Science and Engineering",
+      "code": "CSE",
+      "description": "Study of computing systems, software development, algorithms, and computational theory.",
+      "overview": "CSE is one of the most sought-after engineering disciplines focusing on software development, data structures, cloud computing, and software engineering principles.",
+      "skills": "Python, Java, C++, Data Structures, System Design, SQL, Web Development",
+      "careers": "Software Development Engineer, Full Stack Developer, Systems Architect, Cloud Engineer",
+      "industries": "IT & Software, Product Startups, Fintech, E-commerce, AI Labs"
+    },
+    {
+      "id": 2,
+      "name": "Artificial Intelligence and Data Science",
+      "code": "AIDS",
+      "description": "Specialized program in machine learning, deep learning, data analytics, and intelligent systems.",
+      "overview": "AIDS combines statistical analysis, data processing, and AI model building to solve complex decision-making problems across industries.",
+      "skills": "Machine Learning, Deep Learning, Python, R, TensorFlow, Data Visualization, Big Data",
+      "careers": "AI Engineer, Data Scientist, ML Ops Engineer, Data Analyst, BI Developer",
+      "industries": "Tech Giants, Analytics Firms, Healthcare Tech, Autonomous Mobility, Finance"
+    },
+    {
+      "id": 3,
+      "name": "Artificial Intelligence and Machine Learning",
+      "code": "AIML",
+      "description": "Focused curriculum on neural networks, natural language processing, computer vision, and predictive modeling.",
+      "overview": "AIML teaches students how to build smart algorithms capable of learning patterns from large datasets and performing autonomous actions.",
+      "skills": "Neural Networks, NLP, Computer Vision, PyTorch, Model Deployment, Algorithmic Logic",
+      "careers": "ML Engineer, Computer Vision Engineer, NLP Specialist, Research Scientist",
+      "industries": "AI Research Labs, Robotics, Defense Tech, Tech Services"
+    },
+    {
+      "id": 4,
+      "name": "Information Technology",
+      "code": "IT",
+      "description": "Focuses on application development, network management, web technologies, and enterprise software.",
+      "overview": "IT engineering emphasizes practical software applications, web engineering, database architecture, and network security.",
+      "skills": "Web Stack, Cloud Computing, Database Admin, Networking, DevOps",
+      "careers": "IT Consultant, DevOps Engineer, Full Stack Dev, Database Architect",
+      "industries": "Enterprise IT, Consulting Services, Telecom, Software Houses"
+    },
+    {
+      "id": 5,
+      "name": "Electronics and Communication Engineering",
+      "code": "ECE",
+      "description": "Covers semiconductor devices, microprocessors, VLSI, signal processing, and wireless communications.",
+      "overview": "ECE bridges hardware and software. Students learn embedded systems, IoT architecture, circuit design, and wireless communication protocols.",
+      "skills": "VLSI Design, Embedded C, Microcontrollers, Signal Processing, MATLAB, Circuit Simulation",
+      "careers": "Embedded Systems Engineer, VLSI Hardware Engineer, IoT Specialist, Telecom Engineer",
+      "industries": "Semiconductor Manufacturers, Consumer Electronics, Automotive, Telecom, Defense"
+    },
+    {
+      "id": 6,
+      "name": "Electrical and Electronics Engineering",
+      "code": "EEE",
+      "description": "Study of electrical power generation, smart grids, electric vehicles, control systems, and power electronics.",
+      "overview": "EEE focuses on energy systems, renewable power generation, EV battery management, automation, and industrial control.",
+      "skills": "Power Electronics, Smart Grids, MATLAB, Control Systems, EV Architecture, PLC Automation",
+      "careers": "Electrical Engineer, Power Systems Analyst, EV Hardware Design Engineer, Automation Engineer",
+      "industries": "Electric Vehicle Firms, Renewable Energy, Power Sector, Industrial Manufacturing"
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Engineering",
+      "code": "MECH",
+      "description": "Fundamental engineering branch dealing with thermal systems, CAD/CAM, robotics, and manufacturing technology.",
+      "overview": "Mechanical Engineering equips students with physical modeling, mechanics, thermal engineering, robotics, and digital manufacturing skills.",
+      "skills": "CAD/CAM, SolidWorks, ANSYS, Thermodynamics, Mechatronics, Robotics",
+      "careers": "Design Engineer, Thermal Analyst, Production Engineer, Robotics Specialist",
+      "industries": "Automotive, Aerospace, Heavy Machinery, Energy, Precision Engineering"
+    },
+    {
+      "id": 8,
+      "name": "Civil Engineering",
+      "code": "CIVIL",
+      "description": "Focuses on structural engineering, transportation networks, environmental engineering, and smart city infrastructure.",
+      "overview": "Civil Engineering involves designing, constructing, and maintaining resilient buildings, bridges, water treatment, and transit networks.",
+      "skills": "AutoCAD, STAAD Pro, Structural Analysis, Geotechnical Engg, Project Estimation",
+      "careers": "Structural Engineer, Construction Manager, Site Engineer, Urban Planner",
+      "industries": "Infrastructure Firms, Real Estate Development, Government Public Works, Metro Projects"
+    },
+    {
+      "id": 9,
+      "name": "Cyber Security",
+      "code": "CYBER",
+      "description": "Specialized program covering network security, ethical hacking, cryptography, and digital forensics.",
+      "overview": "Cyber Security prepares students to protect corporate and government infrastructure against cyber attacks, vulnerability exploits, and data breaches.",
+      "skills": "Ethical Hacking, Network Security, Cryptography, Penetration Testing, SOC Operations",
+      "careers": "Cyber Security Analyst, Penetration Tester, Security Consultant, SOC Lead",
+      "industries": "Cybersecurity Agencies, Banking & Finance, Defense, Enterprise Security"
+    }
+  ],
+  "colleges": [
+    {
+      "id": 1,
+      "name": "PSG College of Technology",
+      "code": "PSGTECH",
+      "city": "Coimbatore",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Government-Aided & Autonomous",
+      "website": "https://www.psgtech.edu",
+      "fees": 110000,
+      "hostel_available": 1,
+      "hostel_fee": 65000,
+      "facilities": "Advanced Research Labs, Supercomputing Center, Sports Complex, 24/7 Library, Incubation Center",
+      "accreditation": "NAAC A++, NBA Accredited",
+      "ranking": 53,
+      "placement_rate": 96.5,
+      "avg_package": 10.5
+    },
+    {
+      "id": 2,
+      "name": "PSG Institute of Technology and Applied Research",
+      "code": "PSGITECH",
+      "city": "Coimbatore",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Private & Autonomous",
+      "website": "https://www.psgitech.ac.in",
+      "fees": 140000,
+      "hostel_available": 1,
+      "hostel_fee": 70000,
+      "facilities": "Modern Green Campus, Innovation Hub, Advanced Electronics Labs, High-Speed Wi-Fi",
+      "accreditation": "NAAC A+, NBA Accredited",
+      "ranking": 85,
+      "placement_rate": 94,
+      "avg_package": 8.5
+    },
+    {
+      "id": 3,
+      "name": "Kumaraguru College of Technology",
+      "code": "KCT",
+      "city": "Coimbatore",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Private & Autonomous",
+      "website": "https://www.kct.ac.in",
+      "fees": 150000,
+      "hostel_available": 1,
+      "hostel_fee": 75000,
+      "facilities": "FORGE Innovation Accelerator, 150-acre Eco Campus, Sports Arena, Digital Library",
+      "accreditation": "NAAC A++, NBA Accredited",
+      "ranking": 70,
+      "placement_rate": 93.5,
+      "avg_package": 7.8
+    },
+    {
+      "id": 4,
+      "name": "Bannari Amman Institute of Technology",
+      "code": "BIT",
+      "city": "Sathyamangalam",
+      "district": "Erode",
+      "state": "Tamil Nadu",
+      "type": "Private & Autonomous",
+      "website": "https://www.bitsathy.ac.in",
+      "fees": 120000,
+      "hostel_available": 1,
+      "hostel_fee": 60000,
+      "facilities": "Special Learning Labs, Robotics Hub, 500Mbps Internet, Synthetic Track, Smart Classrooms",
+      "accreditation": "NAAC A++, NBA Accredited",
+      "ranking": 89,
+      "placement_rate": 95,
+      "avg_package": 6.8
+    },
+    {
+      "id": 5,
+      "name": "Government College of Technology",
+      "code": "GCT",
+      "city": "Coimbatore",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Government",
+      "website": "https://www.gct.ac.in",
+      "fees": 45000,
+      "hostel_available": 1,
+      "hostel_fee": 35000,
+      "facilities": "Heritage Campus, Government Research Grants, Historic Library, Central Workshop",
+      "accreditation": "NAAC A, NBA Accredited",
+      "ranking": 95,
+      "placement_rate": 91,
+      "avg_package": 7.2
+    },
+    {
+      "id": 6,
+      "name": "Sri Ramakrishna Engineering College",
+      "code": "SREC",
+      "city": "Coimbatore",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Private & Autonomous",
+      "website": "https://www.srec.ac.in",
+      "fees": 115000,
+      "hostel_available": 1,
+      "hostel_fee": 55000,
+      "facilities": "Bosch & PwC CoE Labs, Startup Incubator, Hostel Gym, Cultural Auditorium",
+      "accreditation": "NAAC A+, NBA Accredited",
+      "ranking": 110,
+      "placement_rate": 92,
+      "avg_package": 6.2
+    },
+    {
+      "id": 7,
+      "name": "Coimbatore Institute of Technology",
+      "code": "CIT",
+      "city": "Coimbatore",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "type": "Government-Aided & Autonomous",
+      "website": "https://www.cit.edu.in",
+      "fees": 85000,
+      "hostel_available": 1,
+      "hostel_fee": 50000,
+      "facilities": "Computing Center, Nanotechnology Lab, Active Alumni Network, Sports Complex",
+      "accreditation": "NAAC A+, NBA Accredited",
+      "ranking": 102,
+      "placement_rate": 93,
+      "avg_package": 8.2
+    },
+    {
+      "id": 8,
+      "name": "College of Engineering Guindy (CEG - Anna University)",
+      "code": "CEG",
+      "city": "Chennai",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "type": "Government University Department",
+      "website": "https://ceg.annauniv.edu",
+      "fees": 35000,
+      "hostel_available": 1,
+      "hostel_fee": 30000,
+      "facilities": "Premier Heritage Institution, High Performance Computing, Research Centers, Central Library",
+      "accreditation": "NAAC A++, NIRF Top 15",
+      "ranking": 13,
+      "placement_rate": 98,
+      "avg_package": 12.5
+    },
+    {
+      "id": 9,
+      "name": "SSN College of Engineering",
+      "code": "SSN",
+      "city": "Chennai",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "type": "Private & Autonomous",
+      "website": "https://www.ssn.edu.in",
+      "fees": 160000,
+      "hostel_available": 1,
+      "hostel_fee": 80000,
+      "facilities": "World-Class Research Infrastructure, Shiv Nadar Innovation Labs, Olympic Standard Sports",
+      "accreditation": "NAAC A++, NIRF Top 45",
+      "ranking": 45,
+      "placement_rate": 97,
+      "avg_package": 10.2
+    },
+    {
+      "id": 10,
+      "name": "Rajalakshmi Engineering College",
+      "code": "REC",
+      "city": "Chennai",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "type": "Private & Autonomous",
+      "website": "https://www.rajalakshmi.org",
+      "fees": 145000,
+      "hostel_available": 1,
+      "hostel_fee": 72000,
+      "facilities": "Idea Factory, Apple iOS Lab, Modern Hostels, Fleet Transportation",
+      "accreditation": "NAAC A++, NBA Accredited",
+      "ranking": 98,
+      "placement_rate": 93,
+      "avg_package": 6.5
+    },
+    {
+      "id": 11,
+      "name": "Thiagarajar College of Engineering",
+      "code": "TCE",
+      "city": "Madurai",
+      "district": "Madurai",
+      "state": "Tamil Nadu",
+      "type": "Government-Aided & Autonomous",
+      "website": "https://www.tce.edu",
+      "fees": 75000,
+      "hostel_available": 1,
+      "hostel_fee": 48000,
+      "facilities": "TCE Technology Business Incubator, Modern CAD Labs, Sports Ground, Library",
+      "accreditation": "NAAC A+, NBA Accredited",
+      "ranking": 82,
+      "placement_rate": 94.5,
+      "avg_package": 7.9
+    },
+    {
+      "id": 12,
+      "name": "Kongu Engineering College",
+      "code": "KEC",
+      "city": "Perundurai",
+      "district": "Erode",
+      "state": "Tamil Nadu",
+      "type": "Private & Autonomous",
+      "website": "https://www.kongu.ac.in",
+      "fees": 125000,
+      "hostel_available": 1,
+      "hostel_fee": 58000,
+      "facilities": "167-acre Campus, Technology Incubation Park, Solar Power Grid, Convention Center",
+      "accreditation": "NAAC A++, NBA Accredited",
+      "ranking": 118,
+      "placement_rate": 91.5,
+      "avg_package": 5.8
+    }
+  ],
+  "college_courses": [
+    {
+      "id": 1,
+      "college_id": 8,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 2,
+      "college_id": 8,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 3,
+      "college_id": 8,
+      "course_id": 4,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 4,
+      "college_id": 1,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 5,
+      "college_id": 1,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 6,
+      "college_id": 1,
+      "course_id": 2,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 7,
+      "college_id": 1,
+      "course_id": 7,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 8,
+      "college_id": 9,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 9,
+      "college_id": 9,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 10,
+      "college_id": 9,
+      "course_id": 2,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 11,
+      "college_id": 2,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 12,
+      "college_id": 2,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 13,
+      "college_id": 2,
+      "course_id": 2,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 14,
+      "college_id": 3,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 15,
+      "college_id": 3,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 16,
+      "college_id": 3,
+      "course_id": 2,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 17,
+      "college_id": 3,
+      "course_id": 4,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 18,
+      "college_id": 5,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 19,
+      "college_id": 5,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 20,
+      "college_id": 5,
+      "course_id": 6,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 21,
+      "college_id": 4,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 22,
+      "college_id": 4,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 23,
+      "college_id": 4,
+      "course_id": 2,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 24,
+      "college_id": 4,
+      "course_id": 4,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 25,
+      "college_id": 6,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 26,
+      "college_id": 6,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 27,
+      "college_id": 6,
+      "course_id": 2,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 28,
+      "college_id": 6,
+      "course_id": 9,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 29,
+      "college_id": 7,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 30,
+      "college_id": 7,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 31,
+      "college_id": 10,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 32,
+      "college_id": 10,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 33,
+      "college_id": 11,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 34,
+      "college_id": 11,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 35,
+      "college_id": 12,
+      "course_id": 1,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    },
+    {
+      "id": 36,
+      "college_id": 12,
+      "course_id": 5,
+      "seats": 120,
+      "fees": 120000,
+      "eligibility": "Minimum 50% in PCM in 12th standard or TNEA eligibility"
+    }
+  ],
+  "cutoff_history": [
+    {
+      "id": 1,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 197
+    },
+    {
+      "id": 2,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 198.25
+    },
+    {
+      "id": 3,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 199.5
+    },
+    {
+      "id": 4,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 196
+    },
+    {
+      "id": 5,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 197.25
+    },
+    {
+      "id": 6,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 198.5
+    },
+    {
+      "id": 7,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 194.5
+    },
+    {
+      "id": 8,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 195.75
+    },
+    {
+      "id": 9,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 197
+    },
+    {
+      "id": 10,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 188.5
+    },
+    {
+      "id": 11,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 189.75
+    },
+    {
+      "id": 12,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 191
+    },
+    {
+      "id": 13,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 181.5
+    },
+    {
+      "id": 14,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 182.75
+    },
+    {
+      "id": 15,
+      "college_id": 8,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 184
+    },
+    {
+      "id": 16,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 195.75
+    },
+    {
+      "id": 17,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 197
+    },
+    {
+      "id": 18,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 198.25
+    },
+    {
+      "id": 19,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 194.25
+    },
+    {
+      "id": 20,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 195.5
+    },
+    {
+      "id": 21,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 196.75
+    },
+    {
+      "id": 22,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 192
+    },
+    {
+      "id": 23,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 193.25
+    },
+    {
+      "id": 24,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 194.5
+    },
+    {
+      "id": 25,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 185
+    },
+    {
+      "id": 26,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 186.25
+    },
+    {
+      "id": 27,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 187.5
+    },
+    {
+      "id": 28,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 177.5
+    },
+    {
+      "id": 29,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 178.75
+    },
+    {
+      "id": 30,
+      "college_id": 8,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 180
+    },
+    {
+      "id": 31,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 195
+    },
+    {
+      "id": 32,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 196.25
+    },
+    {
+      "id": 33,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 197.5
+    },
+    {
+      "id": 34,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 193.5
+    },
+    {
+      "id": 35,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 194.75
+    },
+    {
+      "id": 36,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 196
+    },
+    {
+      "id": 37,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 191
+    },
+    {
+      "id": 38,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 192.25
+    },
+    {
+      "id": 39,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 193.5
+    },
+    {
+      "id": 40,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 183.5
+    },
+    {
+      "id": 41,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 184.75
+    },
+    {
+      "id": 42,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 186
+    },
+    {
+      "id": 43,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 176
+    },
+    {
+      "id": 44,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 177.25
+    },
+    {
+      "id": 45,
+      "college_id": 8,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 178.5
+    },
+    {
+      "id": 46,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 196
+    },
+    {
+      "id": 47,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 197.25
+    },
+    {
+      "id": 48,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 198.5
+    },
+    {
+      "id": 49,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 194.75
+    },
+    {
+      "id": 50,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 196
+    },
+    {
+      "id": 51,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 197.25
+    },
+    {
+      "id": 52,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 192.5
+    },
+    {
+      "id": 53,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 193.75
+    },
+    {
+      "id": 54,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 195
+    },
+    {
+      "id": 55,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 185.5
+    },
+    {
+      "id": 56,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 186.75
+    },
+    {
+      "id": 57,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 188
+    },
+    {
+      "id": 58,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 178.5
+    },
+    {
+      "id": 59,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 179.75
+    },
+    {
+      "id": 60,
+      "college_id": 1,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 181
+    },
+    {
+      "id": 61,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 194.25
+    },
+    {
+      "id": 62,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 195.5
+    },
+    {
+      "id": 63,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 196.75
+    },
+    {
+      "id": 64,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 192.75
+    },
+    {
+      "id": 65,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 194
+    },
+    {
+      "id": 66,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 195.25
+    },
+    {
+      "id": 67,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 190
+    },
+    {
+      "id": 68,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 191.25
+    },
+    {
+      "id": 69,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 192.5
+    },
+    {
+      "id": 70,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 182
+    },
+    {
+      "id": 71,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 183.25
+    },
+    {
+      "id": 72,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 184.5
+    },
+    {
+      "id": 73,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 174.5
+    },
+    {
+      "id": 74,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 175.75
+    },
+    {
+      "id": 75,
+      "college_id": 1,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 177
+    },
+    {
+      "id": 76,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 193.5
+    },
+    {
+      "id": 77,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 194.75
+    },
+    {
+      "id": 78,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 196
+    },
+    {
+      "id": 79,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 192
+    },
+    {
+      "id": 80,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 193.25
+    },
+    {
+      "id": 81,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 194.5
+    },
+    {
+      "id": 82,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 188.5
+    },
+    {
+      "id": 83,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 189.75
+    },
+    {
+      "id": 84,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 191
+    },
+    {
+      "id": 85,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 180.5
+    },
+    {
+      "id": 86,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 181.75
+    },
+    {
+      "id": 87,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 183
+    },
+    {
+      "id": 88,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 173
+    },
+    {
+      "id": 89,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 174.25
+    },
+    {
+      "id": 90,
+      "college_id": 1,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 175.5
+    },
+    {
+      "id": 91,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 188
+    },
+    {
+      "id": 92,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 189.25
+    },
+    {
+      "id": 93,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 190.5
+    },
+    {
+      "id": 94,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 184.5
+    },
+    {
+      "id": 95,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 185.75
+    },
+    {
+      "id": 96,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 187
+    },
+    {
+      "id": 97,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 179.5
+    },
+    {
+      "id": 98,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 180.75
+    },
+    {
+      "id": 99,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 182
+    },
+    {
+      "id": 100,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 168.5
+    },
+    {
+      "id": 101,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 169.75
+    },
+    {
+      "id": 102,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 171
+    },
+    {
+      "id": 103,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 159.5
+    },
+    {
+      "id": 104,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 160.75
+    },
+    {
+      "id": 105,
+      "college_id": 1,
+      "course_id": 7,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 162
+    },
+    {
+      "id": 106,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 195
+    },
+    {
+      "id": 107,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 196.25
+    },
+    {
+      "id": 108,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 197.5
+    },
+    {
+      "id": 109,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 193.5
+    },
+    {
+      "id": 110,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 194.75
+    },
+    {
+      "id": 111,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 196
+    },
+    {
+      "id": 112,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 190.5
+    },
+    {
+      "id": 113,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 191.75
+    },
+    {
+      "id": 114,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 193
+    },
+    {
+      "id": 115,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 182.5
+    },
+    {
+      "id": 116,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 183.75
+    },
+    {
+      "id": 117,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 185
+    },
+    {
+      "id": 118,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 175.5
+    },
+    {
+      "id": 119,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 176.75
+    },
+    {
+      "id": 120,
+      "college_id": 9,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 178
+    },
+    {
+      "id": 121,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 193
+    },
+    {
+      "id": 122,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 194.25
+    },
+    {
+      "id": 123,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 195.5
+    },
+    {
+      "id": 124,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 191.25
+    },
+    {
+      "id": 125,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 192.5
+    },
+    {
+      "id": 126,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 193.75
+    },
+    {
+      "id": 127,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 188
+    },
+    {
+      "id": 128,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 189.25
+    },
+    {
+      "id": 129,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 190.5
+    },
+    {
+      "id": 130,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 179.5
+    },
+    {
+      "id": 131,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 180.75
+    },
+    {
+      "id": 132,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 182
+    },
+    {
+      "id": 133,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 170.5
+    },
+    {
+      "id": 134,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 171.75
+    },
+    {
+      "id": 135,
+      "college_id": 9,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 173
+    },
+    {
+      "id": 136,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 192.25
+    },
+    {
+      "id": 137,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 193.5
+    },
+    {
+      "id": 138,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 194.75
+    },
+    {
+      "id": 139,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 190.5
+    },
+    {
+      "id": 140,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 191.75
+    },
+    {
+      "id": 141,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 193
+    },
+    {
+      "id": 142,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 187
+    },
+    {
+      "id": 143,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 188.25
+    },
+    {
+      "id": 144,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 189.5
+    },
+    {
+      "id": 145,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 178
+    },
+    {
+      "id": 146,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 179.25
+    },
+    {
+      "id": 147,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 180.5
+    },
+    {
+      "id": 148,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 168.5
+    },
+    {
+      "id": 149,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 169.75
+    },
+    {
+      "id": 150,
+      "college_id": 9,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 171
+    },
+    {
+      "id": 151,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 192
+    },
+    {
+      "id": 152,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 193.25
+    },
+    {
+      "id": 153,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 194.5
+    },
+    {
+      "id": 154,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 190
+    },
+    {
+      "id": 155,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 191.25
+    },
+    {
+      "id": 156,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 192.5
+    },
+    {
+      "id": 157,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 185.5
+    },
+    {
+      "id": 158,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 186.75
+    },
+    {
+      "id": 159,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 188
+    },
+    {
+      "id": 160,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 175.5
+    },
+    {
+      "id": 161,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 176.75
+    },
+    {
+      "id": 162,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 178
+    },
+    {
+      "id": 163,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 165.5
+    },
+    {
+      "id": 164,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 166.75
+    },
+    {
+      "id": 165,
+      "college_id": 2,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 168
+    },
+    {
+      "id": 166,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 189
+    },
+    {
+      "id": 167,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 190.25
+    },
+    {
+      "id": 168,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 191.5
+    },
+    {
+      "id": 169,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 186
+    },
+    {
+      "id": 170,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 187.25
+    },
+    {
+      "id": 171,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 188.5
+    },
+    {
+      "id": 172,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 181.5
+    },
+    {
+      "id": 173,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 182.75
+    },
+    {
+      "id": 174,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 184
+    },
+    {
+      "id": 175,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 170.5
+    },
+    {
+      "id": 176,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 171.75
+    },
+    {
+      "id": 177,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 173
+    },
+    {
+      "id": 178,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 160.5
+    },
+    {
+      "id": 179,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 161.75
+    },
+    {
+      "id": 180,
+      "college_id": 2,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 163
+    },
+    {
+      "id": 181,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 189.5
+    },
+    {
+      "id": 182,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 190.75
+    },
+    {
+      "id": 183,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 192
+    },
+    {
+      "id": 184,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 186.5
+    },
+    {
+      "id": 185,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 187.75
+    },
+    {
+      "id": 186,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 189
+    },
+    {
+      "id": 187,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 182.5
+    },
+    {
+      "id": 188,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 183.75
+    },
+    {
+      "id": 189,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 185
+    },
+    {
+      "id": 190,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 171.5
+    },
+    {
+      "id": 191,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 172.75
+    },
+    {
+      "id": 192,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 174
+    },
+    {
+      "id": 193,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 161.5
+    },
+    {
+      "id": 194,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 162.75
+    },
+    {
+      "id": 195,
+      "college_id": 2,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 164
+    },
+    {
+      "id": 196,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 192.5
+    },
+    {
+      "id": 197,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 193.75
+    },
+    {
+      "id": 198,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 195
+    },
+    {
+      "id": 199,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 191
+    },
+    {
+      "id": 200,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 192.25
+    },
+    {
+      "id": 201,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 193.5
+    },
+    {
+      "id": 202,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 187
+    },
+    {
+      "id": 203,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 188.25
+    },
+    {
+      "id": 204,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 189.5
+    },
+    {
+      "id": 205,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 176.5
+    },
+    {
+      "id": 206,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 177.75
+    },
+    {
+      "id": 207,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 179
+    },
+    {
+      "id": 208,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 166.5
+    },
+    {
+      "id": 209,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 167.75
+    },
+    {
+      "id": 210,
+      "college_id": 3,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 169
+    },
+    {
+      "id": 211,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 190
+    },
+    {
+      "id": 212,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 191.25
+    },
+    {
+      "id": 213,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 192.5
+    },
+    {
+      "id": 214,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 187
+    },
+    {
+      "id": 215,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 188.25
+    },
+    {
+      "id": 216,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 189.5
+    },
+    {
+      "id": 217,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 182.5
+    },
+    {
+      "id": 218,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 183.75
+    },
+    {
+      "id": 219,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 185
+    },
+    {
+      "id": 220,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 172
+    },
+    {
+      "id": 221,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 173.25
+    },
+    {
+      "id": 222,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 174.5
+    },
+    {
+      "id": 223,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 161.5
+    },
+    {
+      "id": 224,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 162.75
+    },
+    {
+      "id": 225,
+      "college_id": 3,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 164
+    },
+    {
+      "id": 226,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 190.5
+    },
+    {
+      "id": 227,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 191.75
+    },
+    {
+      "id": 228,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 193
+    },
+    {
+      "id": 229,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 188
+    },
+    {
+      "id": 230,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 189.25
+    },
+    {
+      "id": 231,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 190.5
+    },
+    {
+      "id": 232,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 183.5
+    },
+    {
+      "id": 233,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 184.75
+    },
+    {
+      "id": 234,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 186
+    },
+    {
+      "id": 235,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 173
+    },
+    {
+      "id": 236,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 174.25
+    },
+    {
+      "id": 237,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 175.5
+    },
+    {
+      "id": 238,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 162.5
+    },
+    {
+      "id": 239,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 163.75
+    },
+    {
+      "id": 240,
+      "college_id": 3,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 165
+    },
+    {
+      "id": 241,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 188.5
+    },
+    {
+      "id": 242,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 189.75
+    },
+    {
+      "id": 243,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 191
+    },
+    {
+      "id": 244,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 185.5
+    },
+    {
+      "id": 245,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 186.75
+    },
+    {
+      "id": 246,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 188
+    },
+    {
+      "id": 247,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 181
+    },
+    {
+      "id": 248,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 182.25
+    },
+    {
+      "id": 249,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 183.5
+    },
+    {
+      "id": 250,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 169.5
+    },
+    {
+      "id": 251,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 170.75
+    },
+    {
+      "id": 252,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 172
+    },
+    {
+      "id": 253,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 159.5
+    },
+    {
+      "id": 254,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 160.75
+    },
+    {
+      "id": 255,
+      "college_id": 3,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 162
+    },
+    {
+      "id": 256,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 193.5
+    },
+    {
+      "id": 257,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 194.75
+    },
+    {
+      "id": 258,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 196
+    },
+    {
+      "id": 259,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 191.5
+    },
+    {
+      "id": 260,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 192.75
+    },
+    {
+      "id": 261,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 194
+    },
+    {
+      "id": 262,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 188.5
+    },
+    {
+      "id": 263,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 189.75
+    },
+    {
+      "id": 264,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 191
+    },
+    {
+      "id": 265,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 179.5
+    },
+    {
+      "id": 266,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 180.75
+    },
+    {
+      "id": 267,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 182
+    },
+    {
+      "id": 268,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 169.5
+    },
+    {
+      "id": 269,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 170.75
+    },
+    {
+      "id": 270,
+      "college_id": 5,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 172
+    },
+    {
+      "id": 271,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 191.25
+    },
+    {
+      "id": 272,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 192.5
+    },
+    {
+      "id": 273,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 193.75
+    },
+    {
+      "id": 274,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 189
+    },
+    {
+      "id": 275,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 190.25
+    },
+    {
+      "id": 276,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 191.5
+    },
+    {
+      "id": 277,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 184.5
+    },
+    {
+      "id": 278,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 185.75
+    },
+    {
+      "id": 279,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 187
+    },
+    {
+      "id": 280,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 174.5
+    },
+    {
+      "id": 281,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 175.75
+    },
+    {
+      "id": 282,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 177
+    },
+    {
+      "id": 283,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 164.5
+    },
+    {
+      "id": 284,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 165.75
+    },
+    {
+      "id": 285,
+      "college_id": 5,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 167
+    },
+    {
+      "id": 286,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 186.5
+    },
+    {
+      "id": 287,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 187.75
+    },
+    {
+      "id": 288,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 189
+    },
+    {
+      "id": 289,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 183
+    },
+    {
+      "id": 290,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 184.25
+    },
+    {
+      "id": 291,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 185.5
+    },
+    {
+      "id": 292,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 177.5
+    },
+    {
+      "id": 293,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 178.75
+    },
+    {
+      "id": 294,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 180
+    },
+    {
+      "id": 295,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 165.5
+    },
+    {
+      "id": 296,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 166.75
+    },
+    {
+      "id": 297,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 168
+    },
+    {
+      "id": 298,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 155.5
+    },
+    {
+      "id": 299,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 156.75
+    },
+    {
+      "id": 300,
+      "college_id": 5,
+      "course_id": 6,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 158
+    },
+    {
+      "id": 301,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 186
+    },
+    {
+      "id": 302,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 187.25
+    },
+    {
+      "id": 303,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 188.5
+    },
+    {
+      "id": 304,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 181.75
+    },
+    {
+      "id": 305,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 183
+    },
+    {
+      "id": 306,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 184.25
+    },
+    {
+      "id": 307,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 177
+    },
+    {
+      "id": 308,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 178.25
+    },
+    {
+      "id": 309,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 179.5
+    },
+    {
+      "id": 310,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 162.5
+    },
+    {
+      "id": 311,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 163.75
+    },
+    {
+      "id": 312,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 165
+    },
+    {
+      "id": 313,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 152.5
+    },
+    {
+      "id": 314,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 153.75
+    },
+    {
+      "id": 315,
+      "college_id": 4,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 155
+    },
+    {
+      "id": 316,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 188.5
+    },
+    {
+      "id": 317,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 189.75
+    },
+    {
+      "id": 318,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 191
+    },
+    {
+      "id": 319,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 185
+    },
+    {
+      "id": 320,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 186.25
+    },
+    {
+      "id": 321,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 187.5
+    },
+    {
+      "id": 322,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 179.5
+    },
+    {
+      "id": 323,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 180.75
+    },
+    {
+      "id": 324,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 182
+    },
+    {
+      "id": 325,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 167.5
+    },
+    {
+      "id": 326,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 168.75
+    },
+    {
+      "id": 327,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 170
+    },
+    {
+      "id": 328,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 157.5
+    },
+    {
+      "id": 329,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 158.75
+    },
+    {
+      "id": 330,
+      "college_id": 4,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 160
+    },
+    {
+      "id": 331,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 187
+    },
+    {
+      "id": 332,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 188.25
+    },
+    {
+      "id": 333,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 189.5
+    },
+    {
+      "id": 334,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 183
+    },
+    {
+      "id": 335,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 184.25
+    },
+    {
+      "id": 336,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 185.5
+    },
+    {
+      "id": 337,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 178
+    },
+    {
+      "id": 338,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 179.25
+    },
+    {
+      "id": 339,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 180.5
+    },
+    {
+      "id": 340,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 164.5
+    },
+    {
+      "id": 341,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 165.75
+    },
+    {
+      "id": 342,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 167
+    },
+    {
+      "id": 343,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 154.5
+    },
+    {
+      "id": 344,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 155.75
+    },
+    {
+      "id": 345,
+      "college_id": 4,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 157
+    },
+    {
+      "id": 346,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 185
+    },
+    {
+      "id": 347,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 186.25
+    },
+    {
+      "id": 348,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 187.5
+    },
+    {
+      "id": 349,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 180.5
+    },
+    {
+      "id": 350,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 181.75
+    },
+    {
+      "id": 351,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 183
+    },
+    {
+      "id": 352,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 175.5
+    },
+    {
+      "id": 353,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 176.75
+    },
+    {
+      "id": 354,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 178
+    },
+    {
+      "id": 355,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 161.5
+    },
+    {
+      "id": 356,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 162.75
+    },
+    {
+      "id": 357,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 164
+    },
+    {
+      "id": 358,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 151.5
+    },
+    {
+      "id": 359,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 152.75
+    },
+    {
+      "id": 360,
+      "college_id": 4,
+      "course_id": 4,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 154
+    },
+    {
+      "id": 361,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 183.5
+    },
+    {
+      "id": 362,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 184.75
+    },
+    {
+      "id": 363,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 186
+    },
+    {
+      "id": 364,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 179
+    },
+    {
+      "id": 365,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 180.25
+    },
+    {
+      "id": 366,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 181.5
+    },
+    {
+      "id": 367,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 173.5
+    },
+    {
+      "id": 368,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 174.75
+    },
+    {
+      "id": 369,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 176
+    },
+    {
+      "id": 370,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 157.5
+    },
+    {
+      "id": 371,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 158.75
+    },
+    {
+      "id": 372,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 160
+    },
+    {
+      "id": 373,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 147.5
+    },
+    {
+      "id": 374,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 148.75
+    },
+    {
+      "id": 375,
+      "college_id": 6,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 150
+    },
+    {
+      "id": 376,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 186.5
+    },
+    {
+      "id": 377,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 187.75
+    },
+    {
+      "id": 378,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 189
+    },
+    {
+      "id": 379,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 182.5
+    },
+    {
+      "id": 380,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 183.75
+    },
+    {
+      "id": 381,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 185
+    },
+    {
+      "id": 382,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 177
+    },
+    {
+      "id": 383,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 178.25
+    },
+    {
+      "id": 384,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 179.5
+    },
+    {
+      "id": 385,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 161.5
+    },
+    {
+      "id": 386,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 162.75
+    },
+    {
+      "id": 387,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 164
+    },
+    {
+      "id": 388,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 151.5
+    },
+    {
+      "id": 389,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 152.75
+    },
+    {
+      "id": 390,
+      "college_id": 6,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 154
+    },
+    {
+      "id": 391,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 184.5
+    },
+    {
+      "id": 392,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 185.75
+    },
+    {
+      "id": 393,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 187
+    },
+    {
+      "id": 394,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 180
+    },
+    {
+      "id": 395,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 181.25
+    },
+    {
+      "id": 396,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 182.5
+    },
+    {
+      "id": 397,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 174.5
+    },
+    {
+      "id": 398,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 175.75
+    },
+    {
+      "id": 399,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 177
+    },
+    {
+      "id": 400,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 158.5
+    },
+    {
+      "id": 401,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 159.75
+    },
+    {
+      "id": 402,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 161
+    },
+    {
+      "id": 403,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 148.5
+    },
+    {
+      "id": 404,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 149.75
+    },
+    {
+      "id": 405,
+      "college_id": 6,
+      "course_id": 2,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 151
+    },
+    {
+      "id": 406,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 182.5
+    },
+    {
+      "id": 407,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 183.75
+    },
+    {
+      "id": 408,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 185
+    },
+    {
+      "id": 409,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 177.5
+    },
+    {
+      "id": 410,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 178.75
+    },
+    {
+      "id": 411,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 180
+    },
+    {
+      "id": 412,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 172
+    },
+    {
+      "id": 413,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 173.25
+    },
+    {
+      "id": 414,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 174.5
+    },
+    {
+      "id": 415,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 155.5
+    },
+    {
+      "id": 416,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 156.75
+    },
+    {
+      "id": 417,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 158
+    },
+    {
+      "id": 418,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 145.5
+    },
+    {
+      "id": 419,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 146.75
+    },
+    {
+      "id": 420,
+      "college_id": 6,
+      "course_id": 9,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 148
+    },
+    {
+      "id": 421,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 193.75
+    },
+    {
+      "id": 422,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 195
+    },
+    {
+      "id": 423,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 196.25
+    },
+    {
+      "id": 424,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 192
+    },
+    {
+      "id": 425,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 193.25
+    },
+    {
+      "id": 426,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 194.5
+    },
+    {
+      "id": 427,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 189
+    },
+    {
+      "id": 428,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 190.25
+    },
+    {
+      "id": 429,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 191.5
+    },
+    {
+      "id": 430,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 180
+    },
+    {
+      "id": 431,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 181.25
+    },
+    {
+      "id": 432,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 182.5
+    },
+    {
+      "id": 433,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 170
+    },
+    {
+      "id": 434,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 171.25
+    },
+    {
+      "id": 435,
+      "college_id": 7,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 172.5
+    },
+    {
+      "id": 436,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 191.5
+    },
+    {
+      "id": 437,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 192.75
+    },
+    {
+      "id": 438,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 194
+    },
+    {
+      "id": 439,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 189.25
+    },
+    {
+      "id": 440,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 190.5
+    },
+    {
+      "id": 441,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 191.75
+    },
+    {
+      "id": 442,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 185.5
+    },
+    {
+      "id": 443,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 186.75
+    },
+    {
+      "id": 444,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 188
+    },
+    {
+      "id": 445,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 175
+    },
+    {
+      "id": 446,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 176.25
+    },
+    {
+      "id": 447,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 177.5
+    },
+    {
+      "id": 448,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 165
+    },
+    {
+      "id": 449,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 166.25
+    },
+    {
+      "id": 450,
+      "college_id": 7,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 167.5
+    },
+    {
+      "id": 451,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 190
+    },
+    {
+      "id": 452,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 191.25
+    },
+    {
+      "id": 453,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 192.5
+    },
+    {
+      "id": 454,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 187
+    },
+    {
+      "id": 455,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 188.25
+    },
+    {
+      "id": 456,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 189.5
+    },
+    {
+      "id": 457,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 182.5
+    },
+    {
+      "id": 458,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 183.75
+    },
+    {
+      "id": 459,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 185
+    },
+    {
+      "id": 460,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 171.5
+    },
+    {
+      "id": 461,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 172.75
+    },
+    {
+      "id": 462,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 174
+    },
+    {
+      "id": 463,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 161.5
+    },
+    {
+      "id": 464,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 162.75
+    },
+    {
+      "id": 465,
+      "college_id": 10,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 164
+    },
+    {
+      "id": 466,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 186.5
+    },
+    {
+      "id": 467,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 187.75
+    },
+    {
+      "id": 468,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 189
+    },
+    {
+      "id": 469,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 182.5
+    },
+    {
+      "id": 470,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 183.75
+    },
+    {
+      "id": 471,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 185
+    },
+    {
+      "id": 472,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 177.5
+    },
+    {
+      "id": 473,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 178.75
+    },
+    {
+      "id": 474,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 180
+    },
+    {
+      "id": 475,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 165.5
+    },
+    {
+      "id": 476,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 166.75
+    },
+    {
+      "id": 477,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 168
+    },
+    {
+      "id": 478,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 155.5
+    },
+    {
+      "id": 479,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 156.75
+    },
+    {
+      "id": 480,
+      "college_id": 10,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 158
+    },
+    {
+      "id": 481,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 193.5
+    },
+    {
+      "id": 482,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 194.75
+    },
+    {
+      "id": 483,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 196
+    },
+    {
+      "id": 484,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 191.5
+    },
+    {
+      "id": 485,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 192.75
+    },
+    {
+      "id": 486,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 194
+    },
+    {
+      "id": 487,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 188
+    },
+    {
+      "id": 488,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 189.25
+    },
+    {
+      "id": 489,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 190.5
+    },
+    {
+      "id": 490,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 178.5
+    },
+    {
+      "id": 491,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 179.75
+    },
+    {
+      "id": 492,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 181
+    },
+    {
+      "id": 493,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 168.5
+    },
+    {
+      "id": 494,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 169.75
+    },
+    {
+      "id": 495,
+      "college_id": 11,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 171
+    },
+    {
+      "id": 496,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 191
+    },
+    {
+      "id": 497,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 192.25
+    },
+    {
+      "id": 498,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 193.5
+    },
+    {
+      "id": 499,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 188
+    },
+    {
+      "id": 500,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 189.25
+    },
+    {
+      "id": 501,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 190.5
+    },
+    {
+      "id": 502,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 183.5
+    },
+    {
+      "id": 503,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 184.75
+    },
+    {
+      "id": 504,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 186
+    },
+    {
+      "id": 505,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 172.5
+    },
+    {
+      "id": 506,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 173.75
+    },
+    {
+      "id": 507,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 175
+    },
+    {
+      "id": 508,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 162.5
+    },
+    {
+      "id": 509,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 163.75
+    },
+    {
+      "id": 510,
+      "college_id": 11,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 165
+    },
+    {
+      "id": 511,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 185.5
+    },
+    {
+      "id": 512,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 186.75
+    },
+    {
+      "id": 513,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 188
+    },
+    {
+      "id": 514,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 181
+    },
+    {
+      "id": 515,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 182.25
+    },
+    {
+      "id": 516,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 183.5
+    },
+    {
+      "id": 517,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 175.5
+    },
+    {
+      "id": 518,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 176.75
+    },
+    {
+      "id": 519,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 178
+    },
+    {
+      "id": 520,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 159.5
+    },
+    {
+      "id": 521,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 160.75
+    },
+    {
+      "id": 522,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 162
+    },
+    {
+      "id": 523,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 149.5
+    },
+    {
+      "id": 524,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 150.75
+    },
+    {
+      "id": 525,
+      "college_id": 12,
+      "course_id": 1,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 152
+    },
+    {
+      "id": 526,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2023,
+      "cutoff": 182
+    },
+    {
+      "id": 527,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2024,
+      "cutoff": 183.25
+    },
+    {
+      "id": 528,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "OC",
+      "year": 2025,
+      "cutoff": 184.5
+    },
+    {
+      "id": 529,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2023,
+      "cutoff": 177
+    },
+    {
+      "id": 530,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2024,
+      "cutoff": 178.25
+    },
+    {
+      "id": 531,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "BC",
+      "year": 2025,
+      "cutoff": 179.5
+    },
+    {
+      "id": 532,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2023,
+      "cutoff": 171
+    },
+    {
+      "id": 533,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2024,
+      "cutoff": 172.25
+    },
+    {
+      "id": 534,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "MBC",
+      "year": 2025,
+      "cutoff": 173.5
+    },
+    {
+      "id": 535,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2023,
+      "cutoff": 153.5
+    },
+    {
+      "id": 536,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2024,
+      "cutoff": 154.75
+    },
+    {
+      "id": 537,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "SC",
+      "year": 2025,
+      "cutoff": 156
+    },
+    {
+      "id": 538,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2023,
+      "cutoff": 143.5
+    },
+    {
+      "id": 539,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2024,
+      "cutoff": 144.75
+    },
+    {
+      "id": 540,
+      "college_id": 12,
+      "course_id": 5,
+      "category": "ST",
+      "year": 2025,
+      "cutoff": 146
+    }
+  ],
+  "student_preferences": [],
+  "recommendations": [
+    {
+      "id": 1,
+      "student_id": 1,
+      "college_id": 6,
+      "course_id": 5,
+      "suitability_score": 98,
+      "chance_category": "SAFE",
+      "cutoff_delta": 6,
+      "explanation": "Your cutoff (187.50) is +6.00 points above the 2025 historical cutoff (181.50). Matches your #1 preferred course (ECE). Located in your preferred city/district (Coimbatore). Annual fee (₹1,15,000) is within your selected budget limit."
+    },
+    {
+      "id": 2,
+      "student_id": 1,
+      "college_id": 12,
+      "course_id": 5,
+      "suitability_score": 92,
+      "chance_category": "SAFE",
+      "cutoff_delta": 8,
+      "explanation": "Your cutoff (187.50) is +8.00 points above the 2025 historical cutoff (179.50). Matches your #1 preferred course (ECE). Annual fee (₹1,25,000) is within your selected budget limit."
+    },
+    {
+      "id": 3,
+      "student_id": 1,
+      "college_id": 4,
+      "course_id": 5,
+      "suitability_score": 91,
+      "chance_category": "SAFE",
+      "cutoff_delta": 3.25,
+      "explanation": "Your cutoff (187.50) is +3.25 points above the 2025 historical cutoff (184.25). Matches your #1 preferred course (ECE). Annual fee (₹1,20,000) is within your selected budget limit."
+    },
+    {
+      "id": 4,
+      "student_id": 1,
+      "college_id": 2,
+      "course_id": 5,
+      "suitability_score": 89,
+      "chance_category": "MODERATE",
+      "cutoff_delta": -1,
+      "explanation": "Your cutoff (187.50) is close to the 2025 cutoff (188.50), making it a realistic competitive choice. Matches your #1 preferred course (ECE). Located in your preferred city/district (Coimbatore). Annual fee (₹1,40,000) is within your selected budget limit."
+    },
+    {
+      "id": 5,
+      "student_id": 1,
+      "college_id": 10,
+      "course_id": 5,
+      "suitability_score": 89,
+      "chance_category": "SAFE",
+      "cutoff_delta": 2.5,
+      "explanation": "Your cutoff (187.50) is +2.50 points above the 2025 historical cutoff (185.00). Matches your #1 preferred course (ECE). Annual fee (₹1,45,000) is within your selected budget limit."
+    },
+    {
+      "id": 6,
+      "student_id": 1,
+      "college_id": 3,
+      "course_id": 5,
+      "suitability_score": 87,
+      "chance_category": "MODERATE",
+      "cutoff_delta": -2,
+      "explanation": "Your cutoff (187.50) is close to the 2025 cutoff (189.50), making it a realistic competitive choice. Matches your #1 preferred course (ECE). Located in your preferred city/district (Coimbatore). Annual fee (₹1,50,000) is within your selected budget limit."
+    },
+    {
+      "id": 7,
+      "student_id": 1,
+      "college_id": 6,
+      "course_id": 2,
+      "suitability_score": 86,
+      "chance_category": "SAFE",
+      "cutoff_delta": 5,
+      "explanation": "Your cutoff (187.50) is +5.00 points above the 2025 historical cutoff (182.50). Located in your preferred city/district (Coimbatore). Annual fee (₹1,15,000) is within your selected budget limit."
+    },
+    {
+      "id": 8,
+      "student_id": 1,
+      "college_id": 6,
+      "course_id": 9,
+      "suitability_score": 86,
+      "chance_category": "SAFE",
+      "cutoff_delta": 7.5,
+      "explanation": "Your cutoff (187.50) is +7.50 points above the 2025 historical cutoff (180.00). Located in your preferred city/district (Coimbatore). Annual fee (₹1,15,000) is within your selected budget limit."
+    },
+    {
+      "id": 9,
+      "student_id": 1,
+      "college_id": 5,
+      "course_id": 6,
+      "suitability_score": 84,
+      "chance_category": "SAFE",
+      "cutoff_delta": 2,
+      "explanation": "Your cutoff (187.50) is +2.00 points above the 2025 historical cutoff (185.50). Located in your preferred city/district (Coimbatore). Annual fee (₹45,000) is within your selected budget limit."
+    },
+    {
+      "id": 10,
+      "student_id": 1,
+      "college_id": 5,
+      "course_id": 5,
+      "suitability_score": 83,
+      "chance_category": "AMBITIOUS",
+      "cutoff_delta": -4,
+      "explanation": "Historical cutoff (191.50) is higher than your score (187.50) by 4.00 points. Matches your #1 preferred course (ECE). Located in your preferred city/district (Coimbatore). Annual fee (₹45,000) is within your selected budget limit."
+    }
+  ]
+}
