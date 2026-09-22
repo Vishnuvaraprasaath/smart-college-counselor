@@ -1,4 +1,4 @@
-﻿import { Sequelize } from 'sequelize';
+import { Sequelize } from 'sequelize';
 import dotenv from 'dotenv';
 dotenv.config();
 
@@ -12,7 +12,10 @@ const sequelize = new Sequelize(
     dialect: 'mysql',
     logging: false,
     define: { timestamps: false },
-    pool: { max: 10, min: 0, acquire: 30000, idle: 10000 }
+    pool: { max: 10, min: 0, acquire: 30000, idle: 10000 },
+    dialectOptions: process.env.DB_SSL === 'true'
+      ? { ssl: { require: true, rejectUnauthorized: false } }
+      : {}
   }
 );
 

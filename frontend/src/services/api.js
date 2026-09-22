@@ -1,4 +1,8 @@
-const API_BASE = '/api';
+// In production (Vercel), VITE_API_URL points to the Railway backend.
+// In local development, Vite proxies /api → localhost:5000 so we use '/api'.
+const API_BASE = import.meta.env.VITE_API_URL
+  ? `${import.meta.env.VITE_API_URL}/api`
+  : '/api';
 
 export const analyzeProfile = async (formData) => {
   const response = await fetch(`${API_BASE}/analyze`, {
