@@ -4,13 +4,36 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SmartCounsel AI - Smart College Admission Counselor Agent</title>
+    <title>SmartCounsel AI — Precision College Admission Intelligence</title>
+    <meta name="description" content="AI-powered college counselling and admission intelligence grounded in official TNEA cutoffs and deterministic suitability modeling." />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script>
+      window.addEventListener('error', function(e) {
+        console.error('Fatal Frontend Exception:', e);
+        var banner = document.getElementById('sc-fatal-err');
+        if (!banner) {
+          banner = document.createElement('div');
+          banner.id = 'sc-fatal-err';
+          banner.style.cssText = 'position:fixed;top:16px;left:50%;transform:translateX(-50%);max-width:600px;width:90%;background:#FEE2E2;border:1px solid #F87171;color:#991B1B;padding:16px 20px;border-radius:12px;font-family:sans-serif;font-size:13px;z-index:999999;box-shadow:0 10px 25px rgba(0,0,0,0.1);';
+          banner.innerHTML = '<div style="font-weight:700;margin-bottom:6px;font-size:14px;">Application Initialization Error</div><div style="font-family:monospace;font-size:12px;word-break:break-all;">' + (e.message || String(e)) + '</div><div style="margin-top:10px;"><button onclick="localStorage.clear();location.reload();" style="padding:6px 12px;background:#DC2626;color:white;border:none;border-radius:6px;font-size:12px;cursor:pointer;font-weight:600;">Clear Local Cache & Reload</button></div>';
+          document.body ? document.body.appendChild(banner) : document.documentElement.appendChild(banner);
+        }
+      });
+    </script>
   </head>
-  <body class="bg-slate-50 font-sans text-slate-900 antialiased selection:bg-indigo-500 selection:text-white">
-    <div id="root"></div>
+  <body class="bg-[#F8FAFC] font-sans text-[#0F172A] antialiased selection:bg-indigo-600 selection:text-white">
+    <div id="root">
+      <div style="min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #F8FAFC; color: #0F172A; font-family: 'Inter', system-ui, -apple-system, sans-serif; padding: 24px; text-align: center;">
+        <div style="position: relative; width: 56px; height: 56px; margin-bottom: 20px;">
+          <div style="position: absolute; inset: 0; border: 4px solid #E2E8F0; border-top-color: #4F46E5; border-radius: 50%; animation: scSpin 0.9s cubic-bezier(0.65, 0, 0.35, 1) infinite;"></div>
+        </div>
+        <h1 style="font-size: 20px; font-weight: 800; letter-spacing: -0.025em; margin: 0; color: #0F172A;">SmartCounsel AI</h1>
+        <p style="font-size: 13px; color: #64748B; margin-top: 6px; margin-bottom: 0;">Loading Tamil Nadu Admission Intelligence...</p>
+        <style>@keyframes scSpin { to { transform: rotate(360deg); } }</style>
+      </div>
+    </div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

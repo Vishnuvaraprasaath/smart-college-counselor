@@ -15,7 +15,7 @@
   }
 }
 
-/* Enterprise UI Utilities */
+/* Premium SaaS UI Utilities */
 .border-subtle {
   border-color: #E2E8F0;
 }
@@ -24,12 +24,51 @@
   background-color: #FFFFFF;
 }
 
-/* Subtle enterprise top navigation */
-.enterprise-nav {
-  background-color: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid #E2E8F0;
+/* Translucent floating top navigation */
+.saas-nav {
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+/* Clean Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F8FAFC;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Micro-interaction & Focus Utilities */
+.btn-primary {
+  background-color: #4F46E5;
+  color: #FFFFFF;
+  transition: all 180ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.btn-primary:hover {
+  background-color: #4338CA;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+}
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+.card-interactive {
+  transition: all 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.card-interactive:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
 }
 
 /* Print Stylesheet for Official TNEA Choice Filling Sheet */

@@ -11,6 +11,7 @@ import CutoffTrendsPage from './pages/CutoffTrendsPage';
 import CourseExplorerPage from './pages/CourseExplorerPage';
 import AICounselorChat from './pages/AICounselorChat';
 import StudentProfilePage from './pages/StudentProfilePage';
+import TamilNaduCollegesPage from './pages/TamilNaduCollegesPage';
 import { analyzeProfile, fetchHistoricalAnalysisById } from './services/api';
 
 const STORAGE_KEYS = {
@@ -29,31 +30,41 @@ export default function App() {
       const storedView = localStorage.getItem(STORAGE_KEYS.CURRENT_VIEW);
       const storedId = localStorage.getItem(STORAGE_KEYS.STUDENT_ID);
 
+      const validViews = ['landing', 'colleges', 'form', 'results', 'profile', 'compare', 'cutoffs', 'courses', 'chat'];
+      const targetView = (storedView && validViews.includes(storedView)) ? storedView : 'landing';
+
       if (storedProfile && storedAnalysis) {
         const parsedProfile = JSON.parse(storedProfile);
         const parsedAnalysis = JSON.parse(storedAnalysis);
 
-        if (parsedProfile && parsedProfile.cutoff && parsedAnalysis && Array.isArray(parsedAnalysis.recommendations)) {
+        if (parsedProfile && parsedAnalysis && Array.isArray(parsedAnalysis.recommendations)) {
           return {
             activeProfile: parsedProfile,
             analysisData: parsedAnalysis,
-            studentId: storedId ? parseInt(storedId) : null,
-            currentView: (storedView && ['results', 'profile', 'compare', 'cutoffs', 'courses', 'chat'].includes(storedView)) ? storedView : 'results'
+            studentId: storedId ? parseInt(storedId, 10) : null,
+            currentView: targetView
           };
         }
       }
+
+      return {
+        activeProfile: null,
+        analysisData: null,
+        studentId: null,
+        currentView: targetView === 'results' ? 'landing' : targetView
+      };
     } catch (err) {
       console.warn('Failed to restore session from localStorage, starting fresh:', err);
-      // Clean invalid keys
-      Object.values(STORAGE_KEYS).forEach(key => localStorage.removeItem(key));
+      try {
+        Object.values(STORAGE_KEYS).forEach(key => localStorage.removeItem(key));
+      } catch (e) {}
+      return {
+        activeProfile: null,
+        analysisData: null,
+        studentId: null,
+        currentView: 'landing'
+      };
     }
-
-    return {
-      activeProfile: null,
-      analysisData: null,
-      studentId: null,
-      currentView: 'landing'
-    };
   };
 
   const initialState = getInitialState();
@@ -212,6 +223,17 @@ export default function App() {
               handleLoadDemoData();
               setCurrentView('form');
             }} 
+          />
+        )}
+
+        {currentView === 'colleges' && (
+          <TamilNaduCollegesPage 
+            onSelectCollege={(id) => handleSelectCollegeDetail(id, 'colleges')}
+            onCompareAdd={(college) => {
+              if (!comparedColleges.some(c => c.id === college.id)) {
+                setComparedColleges([...comparedColleges, college]);
+              }
+            }}
           />
         )}
 

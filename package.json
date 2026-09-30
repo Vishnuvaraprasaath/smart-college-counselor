@@ -1,0 +1,17 @@
+{
+  "name": "smart-college-counselor",
+  "version": "1.0.0",
+  "description": "Smart College Admission Counselor Agent (TNEA Intelligence)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "backend": "npm run start --prefix backend",
+    "backend:dev": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "dev": "concurrently -k -p \"[{name}]\" -n \"BACKEND,FRONTEND\" -c \"blue,green\" \"npm run start --prefix backend\" \"npm run dev --prefix frontend\"",
+    "build": "npm run build --prefix frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

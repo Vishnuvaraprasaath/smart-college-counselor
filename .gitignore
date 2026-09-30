@@ -1,29 +1,51 @@
 # Dependencies
 node_modules/
+**/node_modules/
 .pnp
 .pnp.js
 
-# Environment variables — NEVER commit secrets
+# Environment variables & secrets — NEVER commit secrets
 .env
 .env.local
 .env.*.local
+**/.env
+**/.env.local
+**/.env.*.local
+secrets/
+**/secrets/
+*.pem
+*.key
 
 # Build output
 dist/
+**/dist/
 build/
+**/build/
+.vercel
+**/.vercel
 
 # Logs
+logs/
+**/logs/
 *.log
+**/*.log
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Editor
+# Editor & IDE
 .vscode/
 .idea/
+*.suo
+*.ntvs*
+*.njsproj
 
-# Sequelize / DB
+# Sequelize / Local DB files
 *.sqlite
 *.sqlite3
+*.sql
+

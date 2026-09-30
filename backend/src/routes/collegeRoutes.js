@@ -41,7 +41,7 @@ router.get('/colleges', async (req, res) => {
       params.push(`%${search}%`, `%${search}%`, `%${search}%`);
     }
 
-    sql += ` ORDER BY ranking ASC, name ASC`;
+    sql += ` ORDER BY CASE WHEN ranking IS NULL OR ranking = 0 THEN 1 ELSE 0 END, ranking ASC, name ASC`;
     const colleges = await dbAll(sql, params);
 
     res.json({ colleges });

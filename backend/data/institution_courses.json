@@ -1,0 +1,9506 @@
+[
+  {
+    "tnea_code": "0001",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0001",
+    "course_code": "BM",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "CHEM",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "BT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0002",
+    "course_code": "FT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0003",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0003",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0003",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0003",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0003",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0003",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0003",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "AUTO",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "0004",
+    "course_code": "RA",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1013",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1013",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1013",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1013",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1013",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1013",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1014",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1014",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1014",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1014",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1014",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1014",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1015",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1015",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1015",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1015",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1015",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1015",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1026",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1026",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1026",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1026",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1026",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1026",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1101",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1101",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1101",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1101",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1101",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1101",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1106",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1106",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1106",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1106",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1106",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1106",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1107",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1107",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1107",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1107",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1107",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1107",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1110",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1110",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1110",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1110",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1110",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1110",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1110",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1112",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1112",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1112",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1112",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1112",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1112",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1112",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1113",
+    "course_code": "CB",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1114",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1114",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1114",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1114",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1114",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1114",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1114",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1115",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1115",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1115",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1115",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1115",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1115",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1118",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1118",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1118",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1118",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1118",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1118",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1118",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1120",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1120",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1120",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1120",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1120",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1120",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1120",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1122",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1122",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1122",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1122",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1122",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1122",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1122",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1128",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1128",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1128",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1128",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1128",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1128",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1128",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1133",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1133",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1133",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1133",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1149",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1149",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1149",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1149",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1149",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1149",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "BT",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "BM",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1211",
+    "course_code": "AUTO",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "CHEM",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1219",
+    "course_code": "AUTO",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1228",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1228",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1228",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1228",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1228",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1228",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1304",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1304",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1304",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1304",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1304",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1304",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1304",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1306",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1306",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1306",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1306",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1306",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1306",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1307",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1307",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1307",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1307",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1307",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1307",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1307",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1309",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1309",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1309",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1309",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1309",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1309",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1309",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1311",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1311",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1311",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1311",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1311",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1311",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1311",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "CHEM",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1315",
+    "course_code": "BM",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1316",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1316",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1316",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1316",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1316",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1316",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1317",
+    "course_code": "BT",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1318",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1318",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1318",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1318",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1318",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1318",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1319",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1319",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1319",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1319",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1319",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1319",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1321",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1321",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1321",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1321",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1321",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1321",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1322",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1322",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1322",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1322",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1322",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1322",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1324",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1324",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1324",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1324",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1324",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1324",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1324",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1325",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1325",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1325",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1325",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1325",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1325",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1399",
+    "course_code": "RA",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1405",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1405",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1405",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1405",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1405",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1405",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1413",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1413",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1413",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1413",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1413",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1413",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1421",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1421",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1421",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1421",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1421",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1421",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1422",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1422",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1422",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1422",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1422",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1422",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1422",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1424",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1424",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1424",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1424",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1424",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1424",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1427",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1427",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1427",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1427",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1427",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1427",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1427",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1432",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1432",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1432",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1432",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1432",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1432",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1432",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1438",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1438",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1438",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1438",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1438",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1438",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1438",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1445",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1445",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1445",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1445",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1445",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1445",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1445",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1450",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1450",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1450",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1450",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1450",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1450",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1450",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1503",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1503",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1503",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1503",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1503",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1503",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1504",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1504",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1504",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1504",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1504",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1504",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1504",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1505",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1505",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1505",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1505",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1505",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1505",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1516",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "1516",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "1516",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "1516",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "1516",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "1516",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "1520",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1520",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1520",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1520",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1520",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1520",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1526",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1526",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1526",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1526",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1526",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "1526",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2005",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2005",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2005",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2005",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2005",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2005",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2005",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "CHEM",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "BM",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "AUTO",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "RA",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2006",
+    "course_code": "CB",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2007",
+    "course_code": "CHEM",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2025",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2025",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2025",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2025",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2025",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2025",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2377",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2377",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2377",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2377",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2377",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2378",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2378",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2378",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2378",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2378",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2378",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2602",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2602",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2602",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2602",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2602",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2602",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2602",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2603",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2603",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2603",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2603",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2603",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2603",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2603",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2607",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2607",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2607",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2607",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2607",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2607",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2607",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2608",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2608",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2608",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2608",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2608",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2608",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2608",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2611",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2611",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2611",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2611",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2611",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2611",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2612",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2612",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2612",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2612",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2612",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2612",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2613",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2613",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2613",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2613",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2613",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2613",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2613",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2614",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2614",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2614",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2614",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2614",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2614",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2614",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2615",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2615",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2615",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2615",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2615",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2615",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2615",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "2617",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2617",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2617",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2617",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2617",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2617",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2618",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2618",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2618",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2618",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2618",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2618",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2618",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2620",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2620",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2620",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2620",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2620",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2620",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2620",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2621",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2621",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2621",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2621",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2621",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2621",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2622",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2622",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2622",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2622",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2622",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2622",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2623",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2623",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2623",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2623",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2623",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2623",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2624",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2624",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2624",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2624",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2624",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2624",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2625",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2625",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2625",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2625",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2625",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2625",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2625",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2627",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2627",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2627",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2627",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2627",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2627",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2627",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2628",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2628",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2628",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2628",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2628",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2628",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2628",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2630",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2630",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2630",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2630",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2630",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2630",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2634",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2634",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2634",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2634",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2634",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2634",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2634",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2635",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2635",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2635",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2635",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2635",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2635",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2636",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2636",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2636",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2636",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2636",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2636",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2636",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2638",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2638",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2638",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2638",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2638",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2638",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2638",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2670",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2670",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2670",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2670",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2670",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2670",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2670",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "BT",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2702",
+    "course_code": "FT",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2704",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2704",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2704",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2704",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2704",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2704",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2704",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2706",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2706",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2706",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2706",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2706",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2706",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2706",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2707",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2707",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2707",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2707",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2707",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2707",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2708",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2708",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2708",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2708",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2708",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2708",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2708",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2710",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2710",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2710",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2710",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2710",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2710",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2710",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "CHEM",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "AUTO",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2711",
+    "course_code": "FT",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "BT",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2712",
+    "course_code": "AUTO",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "BM",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2715",
+    "course_code": "RA",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2716",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2716",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2716",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2716",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2716",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2716",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2716",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2718",
+    "course_code": "CB",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2719",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2719",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2719",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2719",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2719",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2719",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2719",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2722",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2722",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2722",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2722",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2722",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2722",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2722",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2723",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2723",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2723",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2723",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2723",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2723",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2723",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2726",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2726",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2726",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2726",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2726",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2726",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2726",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2731",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2731",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2731",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2731",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2731",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2731",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2731",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2734",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2734",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2734",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2734",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2734",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2734",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2734",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2735",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2735",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2735",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2735",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2735",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2735",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2739",
+    "course_code": "CB",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2740",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2740",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2740",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2740",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2740",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2740",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2745",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2745",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2745",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2745",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2745",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2745",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2745",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "AIML",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2751",
+    "course_code": "CYBER",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2752",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2752",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2752",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2752",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2752",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2752",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2753",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2753",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2753",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2753",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2753",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2753",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2761",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2761",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2761",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2761",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2761",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2761",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2768",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2768",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2768",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2768",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2768",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "2768",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "BT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3011",
+    "course_code": "AUTO",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3016",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3016",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3016",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3016",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3016",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3016",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3017",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3017",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3017",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3017",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3017",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3017",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3018",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3018",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3018",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3018",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3018",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3018",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3019",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3019",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3019",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3019",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3019",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3019",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3021",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3021",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3021",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3021",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3021",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3021",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3464",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3464",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3464",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3464",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3465",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3465",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3465",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3465",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3801",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3801",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3801",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3801",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3801",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3801",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3805",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3805",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3805",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3805",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3805",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3805",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3805",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3811",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3811",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3811",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3811",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3811",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3811",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3812",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3812",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3812",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3812",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3812",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3812",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3814",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3814",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3814",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3814",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3814",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3814",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3815",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3815",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3815",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3815",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3815",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3815",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3819",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3819",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3819",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3819",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3819",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3819",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3819",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3820",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3820",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3820",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3820",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3820",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3820",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3825",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3825",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3825",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3825",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3825",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3825",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3826",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3826",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3826",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3826",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "3829",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3829",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3829",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3829",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3829",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3829",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3830",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3830",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3830",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3830",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3830",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3830",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3830",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3831",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3831",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3831",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3831",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3831",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3831",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3843",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3843",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3843",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3843",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3843",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3843",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3845",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3845",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3845",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3845",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3845",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3845",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3848",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3848",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3848",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3848",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3848",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3848",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3848",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3849",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3849",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3849",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3849",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3849",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3849",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3850",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3850",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3850",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3850",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3850",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3850",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3855",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3855",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3855",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3855",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3855",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "3855",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4020",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4020",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4020",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4020",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4020",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4020",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4023",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4023",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4023",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4023",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4023",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4023",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4024",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4024",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4024",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4024",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4024",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4024",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4025",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4025",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4025",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4025",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4025",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4025",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4954",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4954",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4954",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4954",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4954",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4954",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4960",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "4960",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "4960",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "4960",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "4960",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "4960",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "4960",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "4962",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4962",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4962",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4962",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4962",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4962",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4965",
+    "course_code": "BT",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4969",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4969",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4969",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4969",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4969",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4969",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4970",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4970",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4970",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4970",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4970",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4970",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4972",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4972",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4972",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4972",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4972",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4972",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4972",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4974",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4974",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4974",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4974",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4974",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4974",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4974",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4976",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4976",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4976",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4976",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4976",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4976",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4976",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4983",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4983",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4983",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4983",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4984",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4984",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4984",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4984",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4984",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4984",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4985",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4985",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4985",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4985",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4985",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4985",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4987",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4987",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4987",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4987",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4989",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4989",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4989",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4989",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4989",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4989",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4989",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4991",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4991",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4991",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4991",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4991",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4991",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4992",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4992",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4992",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4992",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4992",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4992",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4993",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4993",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4993",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4993",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4993",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4993",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4993",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4994",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4994",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4994",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4994",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4994",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4994",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4994",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4995",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4995",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4995",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4995",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4995",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "4995",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5002",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5002",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5002",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5002",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5002",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5002",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5002",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5008",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5008",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5008",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5008",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5008",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5008",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5008",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5012",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5012",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5012",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5012",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5012",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5012",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5901",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5901",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5901",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5901",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 35000,
+    "hostel_available": true,
+    "hostel_fee": 30000
+  },
+  {
+    "tnea_code": "5904",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5904",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5904",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5904",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5904",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5904",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5904",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5907",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5907",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5907",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5907",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5907",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5907",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5910",
+    "course_code": "BM",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5912",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5912",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5912",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5912",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5912",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5912",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5914",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5914",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5914",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5914",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5914",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5914",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5915",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5915",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5915",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5915",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5915",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5915",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5915",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5919",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5919",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5919",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5919",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5919",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5919",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5922",
+    "course_code": "CSE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5922",
+    "course_code": "ECE",
+    "intake": 120,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5922",
+    "course_code": "MECH",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5922",
+    "course_code": "EEE",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5922",
+    "course_code": "IT",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5922",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 85000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5986",
+    "course_code": "CSE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5986",
+    "course_code": "ECE",
+    "intake": 180,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5986",
+    "course_code": "MECH",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5986",
+    "course_code": "EEE",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5986",
+    "course_code": "IT",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5986",
+    "course_code": "CIVIL",
+    "intake": 60,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  },
+  {
+    "tnea_code": "5986",
+    "course_code": "AIDS",
+    "intake": 120,
+    "annual_fee": 125000,
+    "hostel_available": true,
+    "hostel_fee": 65000
+  }
+]

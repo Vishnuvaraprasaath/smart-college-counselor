@@ -13,6 +13,13 @@ import CutoffHistory from '../models/CutoffHistory.js';
 import Student from '../models/Student.js';
 import StudentPreference from '../models/StudentPreference.js';
 import Recommendation from '../models/Recommendation.js';
+import State from '../models/State.js';
+import District from '../models/District.js';
+import Institution from '../models/Institution.js';
+import InstitutionCourse from '../models/InstitutionCourse.js';
+import TneaCutoff from '../models/TneaCutoff.js';
+import DataSource from '../models/DataSource.js';
+import DataImport from '../models/DataImport.js';
 
 // ── Associations ────────────────────────────────────────────────────────────
 College.hasMany(CollegeCourse, { foreignKey: 'college_id' });
@@ -39,6 +46,31 @@ Recommendation.belongsTo(College, { foreignKey: 'college_id' });
 Course.hasMany(Recommendation, { foreignKey: 'course_id' });
 Recommendation.belongsTo(Course, { foreignKey: 'course_id' });
 
+// Tamil Nadu Platform Associations
+State.hasMany(District, { foreignKey: 'state_id', as: 'districts' });
+District.belongsTo(State, { foreignKey: 'state_id', as: 'state' });
+
+District.hasMany(Institution, { foreignKey: 'district_id', as: 'institutions' });
+Institution.belongsTo(District, { foreignKey: 'district_id', as: 'district' });
+
+Institution.hasMany(InstitutionCourse, { foreignKey: 'institution_id', as: 'courses' });
+InstitutionCourse.belongsTo(Institution, { foreignKey: 'institution_id', as: 'institution' });
+
+Course.hasMany(InstitutionCourse, { foreignKey: 'course_id', as: 'offered_by' });
+InstitutionCourse.belongsTo(Course, { foreignKey: 'course_id', as: 'course' });
+
+Institution.hasMany(TneaCutoff, { foreignKey: 'institution_id', as: 'tnea_cutoffs' });
+TneaCutoff.belongsTo(Institution, { foreignKey: 'institution_id', as: 'institution' });
+
+Course.hasMany(TneaCutoff, { foreignKey: 'course_id', as: 'tnea_cutoffs' });
+TneaCutoff.belongsTo(Course, { foreignKey: 'course_id', as: 'course' });
+
+DataSource.hasMany(TneaCutoff, { foreignKey: 'source_id', as: 'cutoffs' });
+TneaCutoff.belongsTo(DataSource, { foreignKey: 'source_id', as: 'source' });
+
+DataSource.hasMany(DataImport, { foreignKey: 'source_id', as: 'imports' });
+DataImport.belongsTo(DataSource, { foreignKey: 'source_id', as: 'source' });
+
 // ── initTables ───────────────────────────────────────────────────────────────
 export const initTables = async () => {
   await sequelize.authenticate();
@@ -62,7 +94,14 @@ export const dbRun = async (sql, params = []) => {
       cutoff_history: CutoffHistory,
       students: Student,
       student_preferences: StudentPreference,
-      recommendations: Recommendation
+      recommendations: Recommendation,
+      states: State,
+      districts: District,
+      institutions: Institution,
+      institution_courses: InstitutionCourse,
+      tnea_cutoffs: TneaCutoff,
+      data_sources: DataSource,
+      data_imports: DataImport
     };
     const Model = modelMap[table];
     if (Model) {
@@ -85,7 +124,14 @@ export const dbRun = async (sql, params = []) => {
         cutoff_history: CutoffHistory,
         students: Student,
         student_preferences: StudentPreference,
-        recommendations: Recommendation
+        recommendations: Recommendation,
+        states: State,
+        districts: District,
+        institutions: Institution,
+        institution_courses: InstitutionCourse,
+        tnea_cutoffs: TneaCutoff,
+        data_sources: DataSource,
+        data_imports: DataImport
       };
       const Model = modelMap[table];
       if (Model) {
@@ -276,6 +322,24 @@ export const dbAll = async (sql, params = []) => {
     console.error('dbAll query fallback error:', err.message);
     return [];
   }
+};
+
+export {
+  sequelize,
+  State,
+  District,
+  Institution,
+  Course,
+  InstitutionCourse,
+  TneaCutoff,
+  DataSource,
+  DataImport,
+  College,
+  CollegeCourse,
+  CutoffHistory,
+  Student,
+  StudentPreference,
+  Recommendation
 };
 
 export default sequelize;
