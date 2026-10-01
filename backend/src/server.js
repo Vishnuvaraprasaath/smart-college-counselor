@@ -117,7 +117,7 @@ const startServer = async () => {
     await initTables();
     await seedDatabase();
 
-    app.listen(PORT, () => {
+    app.listen(PORT, '0.0.0.0', () => {
       console.log(`====================================================`);
       console.log(`🚀 SmartCounsel API Server running on port ${PORT}`);
       console.log(`🌍 Mode: ${process.env.NODE_ENV || 'development'}`);
