@@ -14,13 +14,14 @@ export const calculateRecommendations = async (studentProfile) => {
   const {
     cutoff,
     category,
-    courses: preferredCourses = [], // array of course IDs or course codes e.g. ['ECE', 'CSE']
+    courses: preferredCourses = [],
     location = 'Any location',
-    budget = null, // max budget numerical value e.g. 150000 or null for no limit
-    interests = [] // array of strings e.g. ['electronics', 'iot']
+    budget = null,
+    interests = []
   } = studentProfile;
 
-  // 1. Fetch all colleges and their offered courses with recent 2025 cutoffs for student's category
+  // Fetch all colleges and their offered courses with recent 2025 cutoffs
+  // for the student's category.
   const query = `
     SELECT 
       c.id as college_id,
@@ -46,7 +47,9 @@ export const calculateRecommendations = async (studentProfile) => {
     FROM colleges c
     JOIN college_courses cc ON c.id = cc.college_id
     JOIN courses co ON cc.course_id = co.id
-    JOIN cutoff_history ch ON c.id = ch.college_id AND co.id = ch.course_id
+    JOIN cutoff_history ch
+      ON c.id = ch.college_id
+      AND co.id = ch.course_id
     WHERE ch.category = ? AND ch.year = 2025
   `;
 
@@ -56,49 +59,140 @@ export const calculateRecommendations = async (studentProfile) => {
     return {
       studentProfile,
       recommendations: [],
-      summary: { safe: 0, moderate: 0, ambitious: 0 }
+      summary: {
+        totalMatches: 0,
+        safeCount: 0,
+        moderateCount: 0,
+        ambitiousCount: 0
+      },
+      categorized: {
+        safe: [],
+        moderate: [],
+        ambitious: []
+      }
+    };
+  }
+
+  /*
+   * Apply explicit user preferences as filters.
+   *
+   * If courses are selected:
+   *   Only those courses are considered.
+   *
+   * If a location is selected:
+   *   Only colleges whose city OR district matches that location
+   *   are considered.
+   *
+   * If no preference is selected:
+   *   All available options remain eligible.
+   */
+  let filteredOptions = rawOptions;
+
+  // Course filter
+  if (preferredCourses.length > 0) {
+    const normalizedCourses = preferredCourses.map(course =>
+      course.toString().trim().toUpperCase()
+    );
+
+    filteredOptions = filteredOptions.filter(item => {
+      const courseCode = (item.course_code || '').trim().toUpperCase();
+      const courseName = (item.course_name || '').trim().toUpperCase();
+
+      return (
+        normalizedCourses.includes(courseCode) ||
+        normalizedCourses.includes(courseName)
+      );
+    });
+  }
+
+  // Location filter
+  if (
+    location &&
+    location !== 'Any location' &&
+    location !== 'Any'
+  ) {
+    const targetLocation = location.toString().trim().toLowerCase();
+
+    filteredOptions = filteredOptions.filter(item => {
+      const city = (item.city || '').trim().toLowerCase();
+      const district = (item.district || '').trim().toLowerCase();
+
+      return city === targetLocation || district === targetLocation;
+    });
+  }
+
+  // No matching options after applying preferences
+  if (filteredOptions.length === 0) {
+    return {
+      studentProfile: {
+        cutoff: parseFloat(cutoff),
+        category,
+        courses: preferredCourses,
+        location,
+        budget,
+        interests
+      },
+      recommendations: [],
+      summary: {
+        totalMatches: 0,
+        safeCount: 0,
+        moderateCount: 0,
+        ambitiousCount: 0
+      },
+      categorized: {
+        safe: [],
+        moderate: [],
+        ambitious: []
+      }
     };
   }
 
   const recommendations = [];
 
-  for (const item of rawOptions) {
+  for (const item of filteredOptions) {
     const studentCutoff = parseFloat(cutoff);
     const historicalCutoff = parseFloat(item.historical_cutoff);
-    const cutoffDelta = Math.round((studentCutoff - historicalCutoff) * 100) / 100;
 
-    // 1. Academic & Cutoff Score Calculation (0 to 100)
-    // Delta = studentCutoff - historicalCutoff
-    // Delta = +5 => 100 fit
-    // Delta = 0 => 85 fit
-    // Delta = -2 => 70 fit
-    // Delta = -5 => 40 fit
-    // Delta = -10 => 10 fit
+    const cutoffDelta =
+      Math.round((studentCutoff - historicalCutoff) * 100) / 100;
+
+    // 1. Academic & Cutoff Score
     let cutoffScore = 85 + (cutoffDelta * 3.5);
     cutoffScore = Math.max(0, Math.min(100, cutoffScore));
 
-    // 2. Course Preference Score (0 to 100)
-    let coursePrefScore = 50; // base score if course matches general list
+    // 2. Course Preference Score
+    let coursePrefScore = 50;
     let coursePreferenceRank = -1;
 
     if (preferredCourses.length > 0) {
       const matchIndex = preferredCourses.findIndex(
-        p => p.toUpperCase() === item.course_code.toUpperCase() || p.toUpperCase() === item.course_name.toUpperCase()
+        p =>
+          p.toUpperCase() === item.course_code.toUpperCase() ||
+          p.toUpperCase() === item.course_name.toUpperCase()
       );
+
       if (matchIndex === 0) {
-        coursePrefScore = 100; // Top preferred course
+        coursePrefScore = 100;
         coursePreferenceRank = 1;
       } else if (matchIndex > 0) {
-        coursePrefScore = Math.max(60, 100 - (matchIndex * 15));
+        coursePrefScore = Math.max(
+          60,
+          100 - (matchIndex * 15)
+        );
         coursePreferenceRank = matchIndex + 1;
       } else {
-        coursePrefScore = 30; // Not in explicit preference list
+        coursePrefScore = 30;
       }
     }
 
-    // 3. Location Match Score (0 to 100)
+    // 3. Location Match Score
     let locationScore = 100;
-    if (location && location !== 'Any location' && location !== 'Any') {
+
+    if (
+      location &&
+      location !== 'Any location' &&
+      location !== 'Any'
+    ) {
       const targetLoc = location.toLowerCase().trim();
       const cityLoc = item.city.toLowerCase().trim();
       const distLoc = item.district.toLowerCase().trim();
@@ -106,57 +200,125 @@ export const calculateRecommendations = async (studentProfile) => {
       if (cityLoc === targetLoc || distLoc === targetLoc) {
         locationScore = 100;
       } else {
-        locationScore = 40; // Different city/district
+        locationScore = 40;
       }
     }
 
-    // 4. Budget Compatibility Score (0 to 100)
+    // 4. Budget Compatibility Score
     let budgetScore = 100;
     const maxBudget = budget ? parseFloat(budget) : null;
+
     if (maxBudget && maxBudget > 0) {
       const collegeFee = parseFloat(item.fees);
+
       if (collegeFee <= maxBudget) {
         budgetScore = 100;
       } else {
-        const overageRatio = (collegeFee - maxBudget) / maxBudget;
-        budgetScore = Math.max(10, Math.round(100 - (overageRatio * 100)));
+        const overageRatio =
+          (collegeFee - maxBudget) / maxBudget;
+
+        budgetScore = Math.max(
+          10,
+          Math.round(100 - (overageRatio * 100))
+        );
       }
     }
 
-    // 5. College Quality & Ranking Score (0 to 100)
+    // 5. College Quality & Ranking Score
     let qualityScore = 70;
+
     if (item.ranking) {
-      qualityScore = Math.max(40, 100 - (item.ranking * 0.4));
-    }
-    if (item.placement_rate) {
-      qualityScore = Math.round((qualityScore + item.placement_rate) / 2);
+      qualityScore = Math.max(
+        40,
+        100 - (item.ranking * 0.4)
+      );
     }
 
-    // 6. Student Interest Score (0 to 100)
+    if (item.placement_rate) {
+      qualityScore = Math.round(
+        (qualityScore + item.placement_rate) / 2
+      );
+    }
+
+    // 6. Student Interest Score
     let interestScore = 60;
+
     if (interests && interests.length > 0) {
-      const courseText = `${item.course_name} ${item.course_code}`.toLowerCase();
+      const courseText =
+        `${item.course_name} ${item.course_code}`.toLowerCase();
+
       const matchedInterest = interests.some(interest => {
         const iLower = interest.toLowerCase();
-        if (iLower.includes('electronics') && (courseText.includes('ece') || courseText.includes('electronics'))) return true;
-        if (iLower.includes('programming') || iLower.includes('web') || iLower.includes('software')) {
-          if (courseText.includes('cse') || courseText.includes('it') || courseText.includes('computer')) return true;
+
+        if (
+          iLower.includes('electronics') &&
+          (
+            courseText.includes('ece') ||
+            courseText.includes('electronics')
+          )
+        ) {
+          return true;
         }
-        if (iLower.includes('ai') || iLower.includes('data science') || iLower.includes('machine learning')) {
-          if (courseText.includes('aids') || courseText.includes('aiml') || courseText.includes('artificial')) return true;
+
+        if (
+          iLower.includes('programming') ||
+          iLower.includes('web') ||
+          iLower.includes('software')
+        ) {
+          if (
+            courseText.includes('cse') ||
+            courseText.includes('it') ||
+            courseText.includes('computer')
+          ) {
+            return true;
+          }
         }
+
+        if (
+          iLower.includes('ai') ||
+          iLower.includes('data science') ||
+          iLower.includes('machine learning')
+        ) {
+          if (
+            courseText.includes('aids') ||
+            courseText.includes('aiml') ||
+            courseText.includes('artificial')
+          ) {
+            return true;
+          }
+        }
+
         if (iLower.includes('cyber')) {
-          if (courseText.includes('cyber') || courseText.includes('cse')) return true;
+          if (
+            courseText.includes('cyber') ||
+            courseText.includes('cse')
+          ) {
+            return true;
+          }
         }
-        if (iLower.includes('core') || iLower.includes('robotics')) {
-          if (courseText.includes('mech') || courseText.includes('eee') || courseText.includes('ece')) return true;
+
+        if (
+          iLower.includes('core') ||
+          iLower.includes('robotics')
+        ) {
+          if (
+            courseText.includes('mech') ||
+            courseText.includes('eee') ||
+            courseText.includes('ece')
+          ) {
+            return true;
+          }
         }
+
         return false;
       });
-      if (matchedInterest) interestScore = 95;
+
+      if (matchedInterest) {
+        interestScore = 95;
+      }
     }
 
-    // Weighted Overall Suitability Score (0 to 100)
+    // Weighted Overall Suitability Score
     const overallSuitability = Math.round(
       (cutoffScore * 0.55) +
       (coursePrefScore * 0.15) +
@@ -168,6 +330,7 @@ export const calculateRecommendations = async (studentProfile) => {
 
     // Classification of Admission Chance
     let chanceCategory = 'MODERATE';
+
     if (cutoffDelta >= 0) {
       chanceCategory = 'SAFE';
     } else if (cutoffDelta >= -3.5) {
@@ -178,28 +341,49 @@ export const calculateRecommendations = async (studentProfile) => {
 
     // Build structured rationale reasons
     const reasons = [];
+
     if (cutoffDelta >= 0) {
-      reasons.push(`Your cutoff (${studentCutoff.toFixed(2)}) is +${cutoffDelta.toFixed(2)} points above the 2025 historical cutoff (${historicalCutoff.toFixed(2)}).`);
+      reasons.push(
+        `Your cutoff (${studentCutoff.toFixed(2)}) is +${cutoffDelta.toFixed(2)} points above the 2025 historical cutoff (${historicalCutoff.toFixed(2)}).`
+      );
     } else if (cutoffDelta >= -3.5) {
-      reasons.push(`Your cutoff (${studentCutoff.toFixed(2)}) is close to the 2025 cutoff (${historicalCutoff.toFixed(2)}), making it a realistic competitive choice.`);
+      reasons.push(
+        `Your cutoff (${studentCutoff.toFixed(2)}) is close to the 2025 cutoff (${historicalCutoff.toFixed(2)}), making it a realistic competitive choice.`
+      );
     } else {
-      reasons.push(`Historical cutoff (${historicalCutoff.toFixed(2)}) is higher than your score (${studentCutoff.toFixed(2)}) by ${Math.abs(cutoffDelta).toFixed(2)} points.`);
+      reasons.push(
+        `Historical cutoff (${historicalCutoff.toFixed(2)}) is higher than your score (${studentCutoff.toFixed(2)}) by ${Math.abs(cutoffDelta).toFixed(2)} points.`
+      );
     }
 
     if (coursePreferenceRank === 1) {
-      reasons.push(`Matches your #1 preferred course (${item.course_code}).`);
+      reasons.push(
+        `Matches your #1 preferred course (${item.course_code}).`
+      );
     } else if (coursePreferenceRank > 1) {
-      reasons.push(`Matches your #${coursePreferenceRank} preferred course choice (${item.course_code}).`);
+      reasons.push(
+        `Matches your #${coursePreferenceRank} preferred course choice (${item.course_code}).`
+      );
     }
 
-    if (locationScore === 100 && location !== 'Any location') {
-      reasons.push(`Located in your preferred city/district (${item.city}).`);
+    if (
+      locationScore === 100 &&
+      location !== 'Any location' &&
+      location !== 'Any'
+    ) {
+      reasons.push(
+        `Located in your preferred city/district (${item.city}).`
+      );
     }
 
     if (budgetScore === 100 && maxBudget) {
-      reasons.push(`Annual fee (₹${item.fees.toLocaleString('en-IN')}) is within your selected budget limit.`);
+      reasons.push(
+        `Annual fee (₹${Number(item.fees).toLocaleString('en-IN')}) is within your selected budget limit.`
+      );
     } else if (maxBudget && budgetScore < 100) {
-      reasons.push(`Annual fee (₹${item.fees.toLocaleString('en-IN')}) exceeds specified budget.`);
+      reasons.push(
+        `Annual fee (₹${Number(item.fees).toLocaleString('en-IN')}) exceeds specified budget.`
+      );
     }
 
     recommendations.push({
@@ -224,6 +408,7 @@ export const calculateRecommendations = async (studentProfile) => {
       cutoff_delta: cutoffDelta,
       chance_category: chanceCategory,
       suitability_score: overallSuitability,
+
       fit_breakdown: {
         cutoff_fit: Math.round(cutoffScore),
         course_fit: Math.round(coursePrefScore),
@@ -232,6 +417,7 @@ export const calculateRecommendations = async (studentProfile) => {
         quality_fit: Math.round(qualityScore),
         interest_fit: Math.round(interestScore)
       },
+
       breakdown: {
         cutoff: {
           student: studentCutoff,
@@ -239,50 +425,72 @@ export const calculateRecommendations = async (studentProfile) => {
           delta: cutoffDelta,
           score: Math.round(cutoffScore * 10) / 10,
           weight: 55,
-          weightedContribution: Math.round(cutoffScore * 0.55 * 10) / 10
+          weightedContribution:
+            Math.round(cutoffScore * 0.55 * 10) / 10
         },
+
         coursePreference: {
           score: Math.round(coursePrefScore * 10) / 10,
           weight: 15,
-          weightedContribution: Math.round(coursePrefScore * 0.15 * 10) / 10,
+          weightedContribution:
+            Math.round(coursePrefScore * 0.15 * 10) / 10,
           rank: coursePreferenceRank
         },
+
         location: {
           score: Math.round(locationScore * 10) / 10,
           weight: 10,
-          weightedContribution: Math.round(locationScore * 0.10 * 10) / 10
+          weightedContribution:
+            Math.round(locationScore * 0.10 * 10) / 10
         },
+
         budget: {
           score: Math.round(budgetScore * 10) / 10,
           weight: 10,
-          weightedContribution: Math.round(budgetScore * 0.10 * 10) / 10,
+          weightedContribution:
+            Math.round(budgetScore * 0.10 * 10) / 10,
           maxBudget,
           collegeFee: parseFloat(item.fees)
         },
+
         quality: {
           score: Math.round(qualityScore * 10) / 10,
           weight: 5,
-          weightedContribution: Math.round(qualityScore * 0.05 * 10) / 10,
+          weightedContribution:
+            Math.round(qualityScore * 0.05 * 10) / 10,
           ranking: item.ranking,
           placementRate: item.placement_rate
         },
+
         interest: {
           score: Math.round(interestScore * 10) / 10,
           weight: 5,
-          weightedContribution: Math.round(interestScore * 0.05 * 10) / 10
+          weightedContribution:
+            Math.round(interestScore * 0.05 * 10) / 10
         }
       },
+
       reasons
     });
   }
 
   // Sort by suitability score descending
-  recommendations.sort((a, b) => b.suitability_score - a.suitability_score);
+  recommendations.sort(
+    (a, b) => b.suitability_score - a.suitability_score
+  );
 
   // Separate into Safe, Moderate, Ambitious categories
-  const safeOptions = recommendations.filter(r => r.chance_category === 'SAFE');
-  const moderateOptions = recommendations.filter(r => r.chance_category === 'MODERATE');
-  const ambitiousOptions = recommendations.filter(r => r.chance_category === 'AMBITIOUS');
+  const safeOptions = recommendations.filter(
+    r => r.chance_category === 'SAFE'
+  );
+
+  const moderateOptions = recommendations.filter(
+    r => r.chance_category === 'MODERATE'
+  );
+
+  const ambitiousOptions = recommendations.filter(
+    r => r.chance_category === 'AMBITIOUS'
+  );
 
   return {
     studentProfile: {
@@ -293,13 +501,16 @@ export const calculateRecommendations = async (studentProfile) => {
       budget,
       interests
     },
+
     summary: {
       totalMatches: recommendations.length,
       safeCount: safeOptions.length,
       moderateCount: moderateOptions.length,
       ambitiousCount: ambitiousOptions.length
     },
+
     recommendations,
+
     categorized: {
       safe: safeOptions,
       moderate: moderateOptions,
